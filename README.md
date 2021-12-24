@@ -10,7 +10,7 @@ Deploy Adv Auto Filter V2 to heroku.
 ## Heroku
 
 <p align="center">
-<a href="https://heroku.com/deploy?template=https://github.com/AlbertEinsteinTG/Adv-AF-V2-Deployer">
+<a href="https://heroku.com/deploy?template=https://github.com/jijilaay/Adv-AF-V2-Deployer">
   <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
 </a>
 </p>
@@ -18,4 +18,4 @@ Deploy Adv Auto Filter V2 to heroku.
 ## Credits:
 
 [rahulps1000](https://github.com/rahulps1000/HerokuBannedDeployer)
-
+hi hi
